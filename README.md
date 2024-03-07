@@ -1,2 +1,2 @@
-# CryptoS
+# CryptoW
 npm install <package-name> 
